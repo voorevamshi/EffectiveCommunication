@@ -3,65 +3,39 @@
 ### Index
 Each topic will include: **real-world management**. I'll include:
 
--   ✅ Course concepts
--   ✅ Interview perspective
--   ✅ Real-world software engineering examples
--   ✅ Manager responsibilities
--   ✅ Scenario-based questions
--   ✅ MCQs (including the ones from your course)
--   ✅ Memory tricks
--   ✅ Common mistakes
--   ✅ Manager Tips (what to practice daily)
+-   ✅ Concept (2–3 min read)
+-   ✅ Manager Perspective
+-   ✅ Real Software Examples
+-   ✅ Common Mistakes
+-   ✅ Scenario Questions
+-   ✅ Important MCQs (with answers)
 
 
-#### [Topic 1: Principles of Effective Communication (7 C's)](PrinciplesOfEffectiveCommunication.md)
+#### [Topic 1: Principles of Effective Communication (7 C's)](docs/PrinciplesOfEffectiveCommunication.md)
 
--   1.1 What is Communication?
--   1.2 Types of Communication
--   1.3 The 7 C's of Communication
-    -   Clear
-    -   Concise
-    -   Concrete
-    -   Correct
-    -   Complete
-    -   Coherent
-    -   Courteous
--   1.4 Examples
--   1.5 Interview Notes
--   1.6 Scenario-Based Questions
--   1.7 MCQs with Answers & Explanations
--   1.8 Revision Notes
--   1.9 Memory Tricks
+✅ 7 C's of Communication
+✅ All 6–7 MCQs
+✅ Manager Notes
 
 ----------
 
-#### Topic 2: Communication Barriers
+#### [Topic 2: Communication Barriers](docs/CommunicationBarriers.md)
 
--   Physical Barriers
--   Emotional Barriers
--   Language Barriers
--   Cultural Barriers
--   Noise
--   Information Overload
--   Removing Communication Barriers
--   MCQs
--   Scenario Questions
+✅ Noise
+✅ Language
+✅ Emotional
+✅ Cultural
+✅ MCQs
+----------
+
+#### [Topic 3: Active Listening](docs/ActiveListening.md)
+
+✅ Listening Types
+✅ MCQs
 
 ----------
 
-#### Topic 3: Active Listening
-
--   What is Active Listening?
--   Difference between Hearing and Listening
--   Characteristics
--   Benefits
--   Techniques
--   Examples
--   MCQs
-
-----------
-
-#### Topic 4: Types of Listening
+#### [Topic 4: Types of Listening](docs/TypesOfListening.md)
 
 -   Appreciative Listening
 -   Empathetic Listening
@@ -74,101 +48,71 @@ Each topic will include: **real-world management**. I'll include:
 
 ----------
 
-#### Topic 5: Email Etiquette
+#### [Topic 5: Email Etiquette](docs/EmailEtiquette.md)
 
--   Email Structure
--   Subject Line
--   Greeting
--   Professional Tone
--   Action Items
--   Attachments
--   Closing
--   Email Best Practices
--   Common Mistakes
--   Examples
--   MCQs
+✅ Tone
+✅ Subject Lines
+✅ Email Structure
+✅ Email Scenarios
+✅ Manager Email Tips
+✅ MCQs
+----------
+
+#### [Topic 6: Body Language & Gestures](docs/BodyLanguageGestures.md)
+
+✅ Eye Contact
+✅ Posture
+✅ Non-verbal Communication
+✅ Mirror Practice
+✅ MCQs
+----------
+
+#### [Topic 7: Virtual Meeting Etiquette](docs/VirtualMeetingEtiquette.md)
+
+✅ Remote Collaboration
+✅ Inclusive Meetings
+✅ Manager Facilitation Tips
+✅ MCQs
 
 ----------
 
-#### Topic 6: Body Language & Gestures
+#### [Topic 8: Emotional Intelligence (EI)](docs/EmotionaIntelligence.md)
 
--   Importance
--   Eye Contact
--   Facial Expressions
--   Hand Gestures
--   Posture
--   Personal Space
--   Voice Tone
--   Professional Body Language
--   MCQs
+✅ Self-awareness
+✅ Self-regulation
+✅ Motivation
+✅ Social Awareness
+✅ Relationship Management
+✅ Emotional Maturity
+✅ Effective Expression
+✅ All EI MCQs
+----------
+
+#### [Topic 9: Effective Questioning & Clarification](docs/EffectiveQuestioningClarification.md)
+
+
+✅ Open Questions
+✅ Closed Questions
+✅ Clarifying Questions
+✅ Probing Questions
+✅ MCQs
+
+#### [Topic 10: Communication Scenarios](docs/CommunicationScenarios.md)
+
+
+✅ Alex Conversation
+✅ Best Responses
+✅ Manager Scenarios
 
 ----------
 
-#### Topic 7: Virtual Meeting Etiquette
+#### [Topic 11: Practice Questions](docs/PracticeQuestions.md)
 
--   Before Meeting
--   During Meeting
--   After Meeting
--   Camera Etiquette
--   Mute Rules
--   Active Participation
--   Inclusive Environment
--   Action Items
--   Best Practices
--   MCQs
-
-----------
-
-#### Topic 8: Emotional Intelligence (EI)
-
--   Definition
--   Importance
--   Components
-    -   Self-awareness
-    -   Self-regulation
-    -   Motivation
-    -   Social Awareness
-    -   Relationship Management
--   Emotional Maturity
--   Effective Expression
--   Empathy
--   Conflict Resolution
--   Workplace Examples
--   Interview Questions
--   MCQs
-
-----------
-
-#### Topic 9: Effective Questioning & Clarification
-
--   Importance
--   Open-ended Questions
--   Closed-ended Questions
--   Probing Questions
--   Clarifying Questions
--   Confirmation Techniques
--   Examples
--   MCQs
-#### Topic 10: Communication Scenarios
-
--   Workplace Scenarios
--   Team Communication
--   Emails
--   Meetings
--   Conflict Resolution
--   Emotional Intelligence
--   Best Responses
--   Scenario-Based MCQs
-
-----------
-
-#### Topic 11: Practice Questions
-
--   50+ MCQs
--   Scenario-Based Questions
--   Interview Questions
--   Flash Cards
--   Quick Revision
+✅ Final Revision
+✅ 100+ MCQs
+✅ Interview Questions
+✅ Cheat Sheet
+✅ Manager Checklist
 
 ----------
 
